@@ -54,15 +54,26 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Languages That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,python,cs,bootstrap,discord,bots,discordjs,&perline=14" />
   </a>
 </p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Apps & Else That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,&perline=14" />
+  </a>
+</p>
+
 
 
 <!-- Connect with me -->
