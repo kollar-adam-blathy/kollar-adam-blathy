@@ -67,7 +67,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,python,cs,bootstrap,discord,bots,discordjs,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,python,cs,bootstrap&perline=14" />
   </a>
 </p>
 <!--h1 without bottom border-->
