@@ -23,7 +23,8 @@
 <!--Intro start-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><p style="display: inline-block">- 🔭 I’m currently working on **React, React Native, Nodejs**
+    <summary><p style="display: inline-block">
+ 🔭 I’m currently working on React, React Native, Nodejs
 
  🌱 I’m currently learning to put together multiple Hyper Beast Stack for Scalable Applications.
 
